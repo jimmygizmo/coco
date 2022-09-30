@@ -1,0 +1,4 @@
+# Module dependencies for the Atomonova COCO-FiftyOne project
+
+fiftyone
+
