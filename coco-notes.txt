@@ -1,0 +1,20 @@
+Creates in ~
+.fiftyone
+fiftyone
+
+
+(ve.coco) ➜  coco git:(main) ✗ du -h ~/fiftyone
+ 24M	/Users/bilbo/fiftyone/quickstart/data
+ 25M	/Users/bilbo/fiftyone/quickstart
+ 25M	/Users/bilbo/fiftyone
+
+(ve.coco) ➜  coco git:(main) ✗ du -h ~/.fiftyone
+ 20K	/Users/bilbo/.fiftyone/var/lib/mongo/journal
+ 92K	/Users/bilbo/.fiftyone/var/lib/mongo/log
+ 64K	/Users/bilbo/.fiftyone/var/lib/mongo/diagnostic.data
+1.3M	/Users/bilbo/.fiftyone/var/lib/mongo
+1.3M	/Users/bilbo/.fiftyone/var/lib
+1.3M	/Users/bilbo/.fiftyone/var
+1.3M	/Users/bilbo/.fiftyone
+
+
